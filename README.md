@@ -1,4 +1,4 @@
-# Rumus-Menu-Kasir
+# Rumus-Menu-Kasir Sederhana
 
 print()
 print("..... Menu Kasir .....")
